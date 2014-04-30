@@ -31,11 +31,21 @@
         
         instance.clGeocoder = [[CLGeocoder alloc] init];
         
-        instance.timer = [NSTimer scheduledTimerWithTimeInterval:2
+        instance.timer = [NSTimer scheduledTimerWithTimeInterval:120
                                                           target:instance.clLocationManager
                                                         selector:@selector(startUpdatingLocation)
                                                         userInfo:nil
                                                          repeats:YES];
+        
+        [[NSNotificationCenter defaultCenter] addObserver:instance
+                                                 selector:@selector(handleAppNotification)
+                                                     name:UIApplicationDidFinishLaunchingNotification
+                                                   object:nil];
+        
+        [[NSNotificationCenter defaultCenter] addObserver:instance
+                                                 selector:@selector(handleAppNotification)
+                                                     name:UIApplicationWillEnterForegroundNotification
+                                                   object:nil];
     });
     
     return instance;
@@ -91,6 +101,25 @@
     
 }
 
+#pragma mark -
+- (void)handleAppNotification
+{
+    if([CLLocationManager locationServicesEnabled])
+    {
+        if([CLLocationManager authorizationStatus] != kCLAuthorizationStatusDenied)
+        {
+            [self.clLocationManager startUpdatingLocation];
+        }
+        else
+        {
+            // 在应用级别禁用了定位功能
+        }
+    }
+    else
+    {
+        // 在系统级别禁用了定位功能
+    }
+}
 
 #pragma mark - Override
 - (NSString *)streetAddress
