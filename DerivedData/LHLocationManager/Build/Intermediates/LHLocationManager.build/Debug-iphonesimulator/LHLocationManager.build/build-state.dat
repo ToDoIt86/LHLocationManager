@@ -1,0 +1,934 @@
+TLHLocationManager
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-bggctpkqoryodtdaevwfdyizgwoj/LHLocationManager-Prefix.pch.pch LHLocationManager/LHLocationManager-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/ViewController.o /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/AppDelegate.o /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/LHLocationManager.o /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/main.o /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager normal x86_64
+cCopyStringsFile /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/en.lproj/InfoPlist.strings LHLocationManager/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/Images.xcassets
+cProcessInfoPlistFile /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/Info.plist /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager-Info.plist
+cGenerateDSYMFile /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app.dSYM /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager
+cTouch /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534DE8340000000000000198
+t1397614644
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005331435A00000000000003B4
+t1395737434
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005331435F000000000000019E
+t1395737439
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000053314362000000000058E0E0
+t1395737442
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005331436200000000005B82F0
+t1395737442
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534DE8130000000000446820
+t1397614611
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005331436200000000003599D0
+t1395737442
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000005331436200000000000F1A80
+t1395737442
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005331436200000000002FC3B0
+t1395737442
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000053314362000000000004B000
+t1395737442
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053314364000000000088D8C0
+t1395737444
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000005331436400000000002E6B60
+t1395737444
+s3042144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000533143640000000000037680
+t1395737444
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000053314365000000000048F720
+t1395737445
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000053314365000000000013FD70
+t1395737445
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533143680000000001F1DE10
+t1395737448
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005331437000000000002BC360
+t1395737456
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000533143760000000000002338
+t1395737462
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c0000000053314376000000000008D370
+t1395737462
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000533143760000000000392E20
+t1395737462
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005332ACBA00000000000141F0
+t1395829946
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000533143760000000000014A80
+t1395737462
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000533143760000000000033BA0
+t1395737462
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000053314376000000000001CFB0
+t1395737462
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000053314377000000000001B2B0
+t1395737463
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c000000005331437700000000000C9570
+t1395737463
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000533143770000000000063280
+t1395737463
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000533143770000000000008880
+t1395737463
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000533143770000000000015080
+t1395737463
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005331437700000000000230F0
+t1395737463
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000053314377000000000000E380
+t1395737463
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000533143770000000000089380
+t1395737463
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000533143770000000000017320
+t1395737463
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000533143770000000000039CD0
+t1395737463
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000053314377000000000000B0B0
+t1395737463
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000533143770000000000167E80
+t1395737463
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005331437700000000000106A0
+t1395737463
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000053314377000000000001CE40
+t1395737463
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005331437700000000000740C0
+t1395737463
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000053314377000000000006CA60
+t1395737463
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000053314377000000000001BAD0
+t1395737463
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000533143770000000000084A20
+t1395737463
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533143880000000000000ADC
+t1395737480
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000534DE813000000000000514C
+t1397614611
+s20812
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/AppDelegate.o
+t1398831419
+s62888
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/LHLocationManager.LinkFileList
+c000000005360793A000000000000030A
+t1398831418
+s778
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/LHLocationManager.o
+t1398831596
+s63960
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/ViewController.o
+t1398831419
+s38992
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/main.o
+t1398831419
+s3560
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/AppDelegate.o
+t1398844813
+s77116
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/LHLocationManager.LinkFileList
+c000000005360AB3C0000000000000312
+t1398844220
+s786
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/LHLocationManager.o
+t1398845634
+s78008
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/ViewController.o
+t1398844222
+s39656
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/main.o
+t1398844390
+s3788
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/assetcatalog_dependencies.txt
+t1398844224
+s507
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/assetcatalog_generated_info.plist
+t1398844224
+s525
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-bggctpkqoryodtdaevwfdyizgwoj/LHLocationManager-Prefix.pch.pch
+t1398844222
+s117276
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-boeimgmwcmwxgkgwpjihpscikecq/LHLocationManager-Prefix.pch.pch
+t1398831419
+s116508
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app
+t1398845634
+s306
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app.dSYM
+t1398845571
+s102
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/Base.lproj/Main.storyboardc
+t1398844224
+s170
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/Info.plist
+t1398844224
+s1059
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager
+t1398845634
+s42444
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/PkgInfo
+t1398844224
+s8
+
+N/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/en.lproj/InfoPlist.strings
+t1398831419
+s42
+
+N/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.h
+c000000005360ABE60000000000000157
+t1398844390
+s343
+
+N/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.m
+c000000005360AD8D0000000000000ABA
+t1398844813
+s2746
+
+N/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/Base.lproj/Main.storyboard
+c0000000053605E94000000000000071B
+t1398824596
+s1819
+
+N/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/Images.xcassets
+c0000000053605E940000000000000088
+t1398824596
+s136
+
+N/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager-Info.plist
+c0000000053605E9400000000000004D5
+t1398824596
+s1237
+
+N/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager-Prefix.pch
+c0000000053605E940000000000000158
+t1398824596
+s344
+
+N/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.h
+c0000000053606AF60000000000000180
+t1398827766
+s384
+
+N/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.m
+c000000005360B0C200000000000010FB
+t1398845634
+s4347
+
+N/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/ViewController.h
+c0000000053605E9400000000000000EC
+t1398824596
+s236
+
+N/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/ViewController.m
+c0000000053605E940000000000000202
+t1398824596
+s514
+
+N/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/en.lproj/InfoPlist.strings
+c0000000053605E94000000000000002D
+t1398824596
+s45
+
+N/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/main.m
+c0000000053605E940000000000000166
+t1398824596
+s358
+
+N/usr/lib/libSystem.B.dylib
+c000000005271FC1D000000000000E6D0
+t1383201821
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005271FC290000000000012A00
+t1383201833
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005271FC11000000000002E320
+t1383201809
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005271FC1D0000000000021860
+t1383201821
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005271FC29000000000001B620
+t1383201833
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005271FC2900000000000BD920
+t1383201833
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c000000005332ACBA00000000000141F0
+t1395829946
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005271FC29000000000000A120
+t1383201833
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c000000005332ACBA000000000001D550
+t1395829946
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005271FC290000000000014EE0
+t1383201833
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005271FC2B0000000000010380
+t1383201835
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005271FC2B000000000000C4C0
+t1383201835
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005271FC2900000000000357A0
+t1383201833
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005271FC29000000000000C070
+t1383201833
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005332AC890000000000168D00
+t1395829897
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c000000005332ACB50000000000010630
+t1395829941
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005332ACBB000000000001DF10
+t1395829947
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005271FC1D0000000000075B00
+t1383201821
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005357B072000000000007CC70
+t1398255730
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005271FC1D00000000000766C0
+t1383201821
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c000000005332ACBA0000000000044DC0
+t1395829946
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005271FC1D0000000000021FA0
+t1383201821
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c000000005332ACBA000000000002D920
+t1395829946
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005271FC2A000000000001E570
+t1383201834
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c000000005332ACA5000000000000CC70
+t1395829925
+s52336
+
+N/usr/lib/system/libsystem_stats.dylib
+c000000005332ACAB0000000000009A80
+t1395829931
+s39552
+
+N/usr/lib/system/libunc.dylib
+c000000005271FC25000000000000C3F0
+t1383201829
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005271FC2A00000000000199F0
+t1383201834
+s104944
+
+CBuild AST from /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.m
+r0
+
+CBuild AST from /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.m
+r0
+
+CBuild AST from /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/ViewController.m
+r0
+
+CBuild AST from /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesca8d9642e810b941^f04d9742e810b941^---0#1#1#--18"Check dependencies36"C8D56705-C6D5-4F14-B5C3-E112D3109249-
+
+CCompileAssetCatalog /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/Images.xcassets
+s420537022.834080
+e420537024.423467
+r1
+xCompileAssetCatalog
+x/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app
+x/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LaunchImage-700-568h@2x.png
+o/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/Assets.car
+o/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"CompileAssetCatalog DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app LHLocationManager/Images.xcassets142"CompileAssetCatalog DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app LHLocationManager/Images.xcassets6799d5bee210b941^88686cc0e210b941^-535"/* com.apple.actool.compilation-results *//Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LaunchImage-700-568h@2x.png/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/Assets.car/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@81"file:///Users/LiHong/Desktop/LHLocationManager/LHLocationManager/Images.xcassets/0000000000000000^1343"CompileAssetCatalog DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app LHLocationManager/Images.xcassets    cd /Users/LiHong/Desktop/LHLocationManager    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/Images.xcassets36"3E8DC3E9-750A-49A3-9691-C8D86B50BF5D-
+bD1F713C0-0E6D-467E-90A8-D67021D390D4
+
+CCompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/AppDelegate.o /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420524219.230851
+e420524219.386177
+r1
+xCompileC
+xDerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/AppDelegate.o
+x/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.m
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.h
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.m262"CompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/AppDelegate.o LHLocationManager/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb9333bbbb010b941^55de62bbb010b941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.m0000000000000000^4338"CompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/AppDelegate.o LHLocationManager/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LiHong/Desktop/LHLocationManager    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LiHong/Desktop/LHLocationManager/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-generated-files.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-own-target-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-all-target-headers.hmap -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-project-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources/i386 -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources -F/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator -include /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-boeimgmwcmwxgkgwpjihpscikecq/LHLocationManager-Prefix.pch -MMD -MT dependencies -MF /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/AppDelegate.dia -c /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.m -o /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/AppDelegate.o36"A50F6753-C393-4450-9974-6FF73039E2E0-
+b09CC70C5-4B46-4758-BA80-BFACDB7EA55B
+
+CCompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/LHLocationManager.o /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420524396.658386
+e420524396.750201
+r1
+xCompileC
+xDerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/LHLocationManager.o
+x/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.m
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.m274"CompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/LHLocationManager.o LHLocationManager/LHLocationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler09a4a86cb110b941^ace0c76cb110b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.m0000000000000000^4374"CompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/LHLocationManager.o LHLocationManager/LHLocationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LiHong/Desktop/LHLocationManager    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LiHong/Desktop/LHLocationManager/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-generated-files.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-own-target-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-all-target-headers.hmap -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-project-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources/i386 -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources -F/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator -include /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-boeimgmwcmwxgkgwpjihpscikecq/LHLocationManager-Prefix.pch -MMD -MT dependencies -MF /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/LHLocationManager.d --serialize-diagnostics /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/LHLocationManager.dia -c /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.m -o /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/LHLocationManager.o36"E472ECC6-A583-4029-ACAF-7C4DCD3BC4FE-
+b1ED8F561-CF79-48F8-90E5-8FADC3A03717
+
+CCompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/ViewController.o /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420524219.230625
+e420524219.310836
+r1
+xCompileC
+xDerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/ViewController.o
+x/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/ViewController.m
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/ViewController.m268"CompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/ViewController.o LHLocationManager/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler081e3bbbb010b941^57934fbbb010b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/LiHong/Desktop/LHLocationManager/LHLocationManager/ViewController.m0000000000000000^4356"CompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/ViewController.o LHLocationManager/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LiHong/Desktop/LHLocationManager    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LiHong/Desktop/LHLocationManager/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-generated-files.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-own-target-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-all-target-headers.hmap -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-project-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources/i386 -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources -F/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator -include /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-boeimgmwcmwxgkgwpjihpscikecq/LHLocationManager-Prefix.pch -MMD -MT dependencies -MF /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/ViewController.dia -c /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/ViewController.m -o /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/ViewController.o36"B9A8159A-8358-47C7-BF52-B731CB87355B-
+b09CC70C5-4B46-4758-BA80-BFACDB7EA55B
+
+CCompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/main.o /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420524219.231785
+e420524219.275066
+r1
+xCompileC
+xDerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/main.o
+x/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/main.m
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/main.m248"CompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/main.o LHLocationManager/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb2823bbbb010b941^a56b46bbb010b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/LiHong/Desktop/LHLocationManager/LHLocationManager/main.m0000000000000000^4296"CompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/main.o LHLocationManager/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LiHong/Desktop/LHLocationManager    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LiHong/Desktop/LHLocationManager/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-generated-files.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-own-target-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-all-target-headers.hmap -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-project-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources/i386 -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources -F/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator -include /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-boeimgmwcmwxgkgwpjihpscikecq/LHLocationManager-Prefix.pch -MMD -MT dependencies -MF /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/main.dia -c /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/main.m -o /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/main.o36"AD2B5AF2-2C8E-4E11-BBE2-BAFBC81A15F9-
+b09CC70C5-4B46-4758-BA80-BFACDB7EA55B
+
+CCompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/AppDelegate.o /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420537613.612148
+e420537613.680589
+r1
+xCompileC
+xDerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.m
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.h
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.m266"CompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/AppDelegate.o LHLocationManager/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5bd39c0de510b941^043bae0de510b941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.m0000000000000000^4352"CompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/AppDelegate.o LHLocationManager/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LiHong/Desktop/LHLocationManager    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LiHong/Desktop/LHLocationManager/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-generated-files.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-own-target-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-all-target-headers.hmap -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-project-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources/x86_64 -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources -F/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator -include /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-bggctpkqoryodtdaevwfdyizgwoj/LHLocationManager-Prefix.pch -MMD -MT dependencies -MF /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.m -o /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/AppDelegate.o36"D3D31E3F-8F93-43A9-A63E-F383B0AAC813-
+b4660989C-DF87-4076-B66A-B828E3B41C9D
+
+CCompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/LHLocationManager.o /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420538434.591408
+e420538434.689463
+r1
+xCompileC
+xDerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/LHLocationManager.o
+x/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.m
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.m278"CompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/LHLocationManager.o LHLocationManager/LHLocationManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilercb849742e810b941^58a8b142e810b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.m0000000000000000^4388"CompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/LHLocationManager.o LHLocationManager/LHLocationManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LiHong/Desktop/LHLocationManager    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LiHong/Desktop/LHLocationManager/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-generated-files.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-own-target-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-all-target-headers.hmap -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-project-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources/x86_64 -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources -F/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator -include /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-bggctpkqoryodtdaevwfdyizgwoj/LHLocationManager-Prefix.pch -MMD -MT dependencies -MF /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/LHLocationManager.d --serialize-diagnostics /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/LHLocationManager.dia -c /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager.m -o /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/LHLocationManager.o36"F8DB8F77-1D71-4651-824D-8D4F8B55AF2D-
+b7B01025F-6219-421E-9F2D-0138DE0C0BD1
+
+CCompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/ViewController.o /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420537022.242593
+e420537022.347297
+r1
+xCompileC
+xDerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/ViewController.o
+x/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/ViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/ViewController.m
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/ViewController.m272"CompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/ViewController.o LHLocationManager/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfd303ebee210b941^eae858bee210b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/LiHong/Desktop/LHLocationManager/LHLocationManager/ViewController.m0000000000000000^4370"CompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/ViewController.o LHLocationManager/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LiHong/Desktop/LHLocationManager    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LiHong/Desktop/LHLocationManager/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-generated-files.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-own-target-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-all-target-headers.hmap -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-project-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources/x86_64 -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources -F/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator -include /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-bggctpkqoryodtdaevwfdyizgwoj/LHLocationManager-Prefix.pch -MMD -MT dependencies -MF /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/ViewController.d --serialize-diagnostics /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/ViewController.dia -c /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/ViewController.m -o /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/ViewController.o36"36772CCF-AFC5-490D-BB90-69D0C0FFEBAF-
+bD1F713C0-0E6D-467E-90A8-D67021D390D4
+
+CCompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/main.o /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420537190.794223
+e420537190.829601
+r1
+xCompileC
+xDerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/main.o
+x/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/main.m
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/main.m252"CompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/main.o LHLocationManager/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler516acb66e310b941^b761d466e310b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/LiHong/Desktop/LHLocationManager/LHLocationManager/main.m0000000000000000^4310"CompileC DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/main.o LHLocationManager/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LiHong/Desktop/LHLocationManager    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LiHong/Desktop/LHLocationManager/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-generated-files.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-own-target-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-all-target-headers.hmap -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-project-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources/x86_64 -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources -F/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator -include /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-bggctpkqoryodtdaevwfdyizgwoj/LHLocationManager-Prefix.pch -MMD -MT dependencies -MF /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/main.dia -c /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/main.m -o /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/main.o36"A96A0D63-BA07-41FD-944F-899E46314E70-
+bCFD8BD20-5FE7-4345-B839-81E9F28ED13F
+
+CCompileStoryboard /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/Base.lproj/Main.storyboard
+s420537022.833646
+e420537024.605948
+r1
+xCompileStoryboard
+x/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"CompileStoryboard LHLocationManager/Base.lproj/Main.storyboard62"CompileStoryboard LHLocationManager/Base.lproj/Main.storyboarddc7ed5bee210b941^57239bc0e210b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/LiHong/Desktop/LHLocationManager/LHLocationManager/Base.lproj/Main.storyboard0000000000000000^902"CompileStoryboard LHLocationManager/Base.lproj/Main.storyboard    cd /Users/LiHong/Desktop/LHLocationManager    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/Base.lproj/Main.storyboardc /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/Base.lproj/Main.storyboard36"91107CA0-5C34-4CF1-9954-3395408279A6-
+bD1F713C0-0E6D-467E-90A8-D67021D390D4
+
+CCopyStringsFile /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/en.lproj/InfoPlist.strings LHLocationManager/en.lproj/InfoPlist.strings
+s420524219.615486
+e420524219.618169
+r1
+xCopyStringsFile
+x/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/en.lproj/InfoPlist.strings
+xLHLocationManager/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy LHLocationManager/en.lproj/InfoPlist.strings176"CopyStringsFile DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/en.lproj/InfoPlist.strings LHLocationManager/en.lproj/InfoPlist.strings40a29dbbb010b941^0b419ebbb010b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/LiHong/Desktop/LHLocationManager/LHLocationManager/en.lproj/InfoPlist.strings0000000000000000^695"CopyStringsFile DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/en.lproj/InfoPlist.strings LHLocationManager/en.lproj/InfoPlist.strings    cd /Users/LiHong/Desktop/LHLocationManager    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/en.lproj -- LHLocationManager/en.lproj/InfoPlist.strings36"40928F91-8743-47BA-99A8-4BE7BA361122-
+b09CC70C5-4B46-4758-BA80-BFACDB7EA55B
+
+CGenerateDSYMFile /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app.dSYM /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager
+s420538434.728797
+e420538434.747020
+r1
+xGenerateDSYMFile
+x/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app.dSYM
+x/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Generate /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app.dSYM217"GenerateDSYMFile DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app.dSYM DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager2c9eba42e810b941^7d3dbf42e810b941^---0#0#1#-19%DVTDocumentLocation2@141"file:///Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app.dSYM/0000000000000000^844"GenerateDSYMFile DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app.dSYM DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager    cd /Users/LiHong/Desktop/LHLocationManager    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager -o /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app.dSYM36"E25EB563-4006-467C-AE18-3275CE815AE9-
+b7B01025F-6219-421E-9F2D-0138DE0C0BD1
+
+CLd /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager normal i386
+s420524396.752040
+e420524396.792654
+r1
+xLd
+x/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager
+xnormal
+xi386
+d/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/LHLocationManager.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/ViewController.o
+d/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/AppDelegate.o
+d/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/LHLocationManager.o
+d/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Link /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager121"Ld DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager normal i386bb9ac06cb110b941^29ecca6cb110b941^---0#0#1#--1699"Ld DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager normal i386    cd /Users/LiHong/Desktop/LHLocationManager    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator -F/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator -filelist /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/LHLocationManager.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreLocation -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/i386/LHLocationManager_dependency_info.dat -o /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager36"F2F00D5C-DAEC-41FD-8A4C-1427E6C838D9-
+b1ED8F561-CF79-48F8-90E5-8FADC3A03717
+
+CLd /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager normal x86_64
+s420538434.692074
+e420538434.727207
+r1
+xLd
+x/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager
+xnormal
+xx86_64
+d/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/LHLocationManager.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/ViewController.o
+d/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/LHLocationManager.o
+d/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Link /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager123"Ld DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager normal x86_645740b142e810b941^9d2bba42e810b941^---0#0#1#--1725"Ld DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager normal x86_64    cd /Users/LiHong/Desktop/LHLocationManager    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator -F/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator -filelist /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/LHLocationManager.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework MapKit -framework CoreLocation -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/Objects-normal/x86_64/LHLocationManager_dependency_info.dat -o /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/LHLocationManager36"D08003B8-54EC-4B23-854B-DBDA9FBEFF75-
+b7B01025F-6219-421E-9F2D-0138DE0C0BD1
+
+CProcessInfoPlistFile /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/Info.plist /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager-Info.plist
+s420537024.606525
+e420537024.607887
+r1
+xProcessInfoPlistFile
+x/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/Info.plist
+x/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Process /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager-Info.plist167"ProcessInfoPlistFile DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/Info.plist LHLocationManager/LHLocationManager-Info.plista0509bc0e210b941^b6a09bc0e210b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager-Info.plist0000000000000000^1097"ProcessInfoPlistFile DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/Info.plist LHLocationManager/LHLocationManager-Info.plist    cd /Users/LiHong/Desktop/LHLocationManager    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager-Info.plist -genpkginfo /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/assetcatalog_generated_info.plist -o /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app/Info.plist36"BB5EFB82-FC51-4C3C-A3D1-0ABBD17AEA30-
+bD1F713C0-0E6D-467E-90A8-D67021D390D4
+
+CProcessPCH /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-bggctpkqoryodtdaevwfdyizgwoj/LHLocationManager-Prefix.pch.pch LHLocationManager/LHLocationManager-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420537020.878666
+e420537022.241999
+r1
+xProcessPCH
+x/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-bggctpkqoryodtdaevwfdyizgwoj/LHLocationManager-Prefix.pch.pch
+xLHLocationManager/LHLocationManager-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Precompile LHLocationManager/LHLocationManager-Prefix.pch283"ProcessPCH DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-bggctpkqoryodtdaevwfdyizgwoj/LHLocationManager-Prefix.pch.pch LHLocationManager/LHLocationManager-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfb03e1bce210b941^38f53dbee210b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager-Prefix.pch0000000000000000^4186"ProcessPCH DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-bggctpkqoryodtdaevwfdyizgwoj/LHLocationManager-Prefix.pch.pch LHLocationManager/LHLocationManager-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LiHong/Desktop/LHLocationManager    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LiHong/Desktop/LHLocationManager/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-generated-files.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-own-target-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-all-target-headers.hmap -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-project-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources/x86_64 -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources -F/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-bggctpkqoryodtdaevwfdyizgwoj/LHLocationManager-Prefix.pch.dia -MMD -MT dependencies -MF /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-bggctpkqoryodtdaevwfdyizgwoj/LHLocationManager-Prefix.pch.d -c /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager-Prefix.pch -o /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-bggctpkqoryodtdaevwfdyizgwoj/LHLocationManager-Prefix.pch.pch36"F0D4923A-521B-4238-8C28-D62C4621F110-
+bD1F713C0-0E6D-467E-90A8-D67021D390D4
+
+CProcessPCH /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-boeimgmwcmwxgkgwpjihpscikecq/LHLocationManager-Prefix.pch.pch LHLocationManager/LHLocationManager-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420524218.270420
+e420524219.230057
+r1
+xProcessPCH
+x/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-boeimgmwcmwxgkgwpjihpscikecq/LHLocationManager-Prefix.pch.pch
+xLHLocationManager/LHLocationManager-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Precompile LHLocationManager/LHLocationManager-Prefix.pch281"ProcessPCH DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-boeimgmwcmwxgkgwpjihpscikecq/LHLocationManager-Prefix.pch.pch LHLocationManager/LHLocationManager-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7b4f45bab010b941^86e63abbb010b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager-Prefix.pch0000000000000000^4180"ProcessPCH DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-boeimgmwcmwxgkgwpjihpscikecq/LHLocationManager-Prefix.pch.pch LHLocationManager/LHLocationManager-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LiHong/Desktop/LHLocationManager    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LiHong/Desktop/LHLocationManager/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-generated-files.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-own-target-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-all-target-headers.hmap -iquote /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/LHLocationManager-project-headers.hmap -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources/i386 -I/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/LHLocationManager.build/Debug-iphonesimulator/LHLocationManager.build/DerivedSources -F/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-boeimgmwcmwxgkgwpjihpscikecq/LHLocationManager-Prefix.pch.dia -MMD -MT dependencies -MF /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-boeimgmwcmwxgkgwpjihpscikecq/LHLocationManager-Prefix.pch.d -c /Users/LiHong/Desktop/LHLocationManager/LHLocationManager/LHLocationManager-Prefix.pch -o /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Intermediates/PrecompiledHeaders/LHLocationManager-Prefix-boeimgmwcmwxgkgwpjihpscikecq/LHLocationManager-Prefix.pch.pch36"98EEA16E-CDA3-421D-8BF9-D1383BBCD8C2-
+b09CC70C5-4B46-4758-BA80-BFACDB7EA55B
+
+CProcessPCH /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Index/PrecompiledHeaders/LHLocationManager-Prefix-apnlquvcdbytvoattcgvjnwbhmpo_ast/LHLocationManager-Prefix.pch.pch LHLocationManager/LHLocationManager-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Index/PrecompiledHeaders/LHLocationManager-Prefix-fixkpirmvqnhqzdueszgbhlnexqd_ast/LHLocationManager-Prefix.pch.pch LHLocationManager/LHLocationManager-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app
+s420537024.636298
+e420537024.641639
+r1
+xTouch
+x/Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Touch /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app94"Touch DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.appbff0a2c0e210b941^b343a4c0e210b941^---0#0#1#--488"Touch DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app    cd /Users/LiHong/Desktop/LHLocationManager    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/LiHong/Desktop/LHLocationManager/DerivedData/LHLocationManager/Build/Products/Debug-iphonesimulator/LHLocationManager.app36"F477C10C-ADD5-4AA5-A582-283C0D6AEF8A-
+bD1F713C0-0E6D-467E-90A8-D67021D390D4
+
